@@ -6,7 +6,7 @@ A hands-on learning repository for **Loop Engineering** — the skill of designi
 
 ## What You'll Learn
 
-These five projects progress from the simplest loop to understanding the difference between a workflow and a loop:
+These six projects progress from the simplest loop to understanding the loop formula:
 
 | Project | Loop Type | Key Concept | Difficulty |
 |---------|-----------|-------------|------------|
@@ -15,6 +15,7 @@ These five projects progress from the simplest loop to understanding the differe
 | [Project 3](project3-scheduled-loop/) | Scheduled | Spine (memory) | Medium |
 | [Project 4](project4-maker-checker/) | Maker-checker | Two agents, PASS/FAIL | Medium-Hard |
 | [Project 5](project5-codify-body/) | Workflow | One command, whole body | Medium |
+| [Project 6](project6-add-spine/) | Loop | Heartbeat + Workflow + Spine = Loop | Medium |
 
 ## The Six Parts of Every Loop
 
@@ -59,6 +60,7 @@ Loop-Engineering-Projects/
 ├── project3-scheduled-loop/     # Spine (memory between runs)
 ├── project4-maker-checker/      # Two-agent safety pattern
 ├── project5-codify-body/        # Workflow vs loop (one command, whole body)
+├── project6-add-spine/          # Loop formula: Heartbeat + Workflow + Spine = Loop
 └── README.md                    # This file
 ```
 
@@ -121,6 +123,7 @@ Maker (implementer)          Checker (reviewer)
 3. **Project 3** — Understand why the spine matters (run twice!)
 4. **Project 4** — See why the checker must be separate from the maker
 5. **Project 5** — Understand that a workflow is not a loop (no memory = not a loop)
+6. **Project 6** — See the loop formula: Heartbeat + Workflow + Spine = Loop
 
 ## Resources
 
