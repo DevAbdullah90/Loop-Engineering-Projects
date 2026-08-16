@@ -6,7 +6,7 @@ A hands-on learning repository for **Loop Engineering** — the skill of designi
 
 ## What You'll Learn
 
-These four projects progress from the simplest loop to the most important safety pattern:
+These five projects progress from the simplest loop to understanding the difference between a workflow and a loop:
 
 | Project | Loop Type | Key Concept | Difficulty |
 |---------|-----------|-------------|------------|
@@ -14,6 +14,7 @@ These four projects progress from the simplest loop to the most important safety
 | [Project 2](project2-conditional-loop/) | Conditional | Command decides "done" | Easy-Medium |
 | [Project 3](project3-scheduled-loop/) | Scheduled | Spine (memory) | Medium |
 | [Project 4](project4-maker-checker/) | Maker-checker | Two agents, PASS/FAIL | Medium-Hard |
+| [Project 5](project5-codify-body/) | Workflow | One command, whole body | Medium |
 
 ## The Six Parts of Every Loop
 
@@ -57,6 +58,7 @@ Loop-Engineering-Projects/
 ├── project2-conditional-loop/   # Run-until-done pattern
 ├── project3-scheduled-loop/     # Spine (memory between runs)
 ├── project4-maker-checker/      # Two-agent safety pattern
+├── project5-codify-body/        # Workflow vs loop (one command, whole body)
 └── README.md                    # This file
 ```
 
@@ -118,6 +120,7 @@ Maker (implementer)          Checker (reviewer)
 2. **Project 2** — See how a command decides "done" instead of a timer
 3. **Project 3** — Understand why the spine matters (run twice!)
 4. **Project 4** — See why the checker must be separate from the maker
+5. **Project 5** — Understand that a workflow is not a loop (no memory = not a loop)
 
 ## Resources
 
