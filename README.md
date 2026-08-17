@@ -6,7 +6,7 @@ A hands-on learning repository for **Loop Engineering** — the skill of designi
 
 ## What You'll Learn
 
-These six projects progress from the simplest loop to understanding the loop formula:
+These seven projects progress from the simplest loop to parallel work:
 
 | Project | Loop Type | Key Concept | Difficulty |
 |---------|-----------|-------------|------------|
@@ -16,6 +16,7 @@ These six projects progress from the simplest loop to understanding the loop for
 | [Project 4](project4-maker-checker/) | Maker-checker | Two agents, PASS/FAIL | Medium-Hard |
 | [Project 5](project5-codify-body/) | Workflow | One command, whole body | Medium |
 | [Project 6](project6-add-spine/) | Loop | Heartbeat + Workflow + Spine = Loop | Medium |
+| [Project 7](project7-add-worktree/) | Parallel | Worktrees for isolation | Medium-Hard |
 
 ## The Six Parts of Every Loop
 
@@ -61,6 +62,7 @@ Loop-Engineering-Projects/
 ├── project4-maker-checker/      # Two-agent safety pattern
 ├── project5-codify-body/        # Workflow vs loop (one command, whole body)
 ├── project6-add-spine/          # Loop formula: Heartbeat + Workflow + Spine = Loop
+├── project7-add-worktree/       # Parallel work with isolation
 └── README.md                    # This file
 ```
 
@@ -124,6 +126,7 @@ Maker (implementer)          Checker (reviewer)
 4. **Project 4** — See why the checker must be separate from the maker
 5. **Project 5** — Understand that a workflow is not a loop (no memory = not a loop)
 6. **Project 6** — See the loop formula: Heartbeat + Workflow + Spine = Loop
+7. **Project 7** — Learn parallel work with worktrees (isolation prevents conflicts)
 
 ## Resources
 
