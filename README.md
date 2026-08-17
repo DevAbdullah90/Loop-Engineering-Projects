@@ -6,7 +6,7 @@ A hands-on learning repository for **Loop Engineering** — the skill of designi
 
 ## What You'll Learn
 
-These eight projects progress from the simplest loop to subagent coordination:
+These twelve projects progress from the simplest loop to real-world integration:
 
 | Project | Loop Type | Key Concept | Difficulty |
 |---------|-----------|-------------|------------|
@@ -17,7 +17,11 @@ These eight projects progress from the simplest loop to subagent coordination:
 | [Project 5](project5-codify-body/) | Workflow | One command, whole body | Medium |
 | [Project 6](project6-add-spine/) | Loop | Heartbeat + Workflow + Spine = Loop | Medium |
 | [Project 7](project7-add-worktree/) | Parallel | Worktrees for isolation | Medium-Hard |
+| [Project 8](project8-teach-skill/) | Skill | Write once, use forever | Medium |
 | [Project 9](project9-subagents/) | Subagents | Maker, Reviewer, Tester | Medium-Hard |
+| [Project 10](project10-add-connector/) | Connector | File system write | Medium |
+| [Project 11](project11-parallel-work/) | Parallel | 3 agents, 3 bugs | Medium-Hard |
+| [Project 12](project12-connect-world/) | Real World | File system, Git, Slack | Hard |
 
 ## The Six Parts of Every Loop
 
@@ -64,7 +68,11 @@ Loop-Engineering-Projects/
 ├── project5-codify-body/        # Workflow vs loop (one command, whole body)
 ├── project6-add-spine/          # Loop formula: Heartbeat + Workflow + Spine = Loop
 ├── project7-add-worktree/       # Parallel work with isolation
+├── project8-teach-skill/        # Write once, use forever
 ├── project9-subagents/          # Maker, Reviewer, Tester coordination
+├── project10-add-connector/     # File system connector
+├── project11-parallel-work/     # 3 agents, 3 bugs, parallel execution
+├── project12-connect-world/     # Real-world integration (file, git, slack)
 └── README.md                    # This file
 ```
 
@@ -129,7 +137,11 @@ Maker (implementer)          Checker (reviewer)
 5. **Project 5** — Understand that a workflow is not a loop (no memory = not a loop)
 6. **Project 6** — See the loop formula: Heartbeat + Workflow + Spine = Loop
 7. **Project 7** — Learn parallel work with worktrees (isolation prevents conflicts)
-8. **Project 9** — See subagent coordination: Maker, Reviewer, Tester
+8. **Project 8** — Write a skill once, use it forever
+9. **Project 9** — See subagent coordination: Maker, Reviewer, Tester
+10. **Project 10** — Add a file system connector (write reports)
+11. **Project 11** — Combine parallel work with subagents (3 agents, 3 bugs)
+12. **Project 12** — Connect to the real world: file system, git, Slack
 
 ## Resources
 
